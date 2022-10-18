@@ -1,0 +1,7 @@
+INDEX VERSION 1.4+C:\Ygor\primefaces-hibernate-crud-master\primefaces-hibernate-crud-master\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+505555672.index
+3387863072.index
+4035077398.index
+3336974159.index
+2132470707.index
+3283738959.index
