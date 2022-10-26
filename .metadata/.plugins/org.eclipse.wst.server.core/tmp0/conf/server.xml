@@ -152,7 +152,7 @@
              Note: The pattern used is equivalent to using pattern="common" -->
         <Valve className="org.apache.catalina.valves.AccessLogValve" directory="logs" pattern="%h %l %u %t &quot;%r&quot; %s %b" prefix="localhost_access_log" suffix=".txt"/>
 
-      <Context docBase="C:\Ygor\primefaces-hibernate-crud-master\primefaces-hibernate-crud-master\.metadata\.plugins\org.eclipse.wst.server.core\tmp0\wtpwebapps\ROOT" path="" reloadable="false"/><Context docBase="C:\Ygor\primefaces-hibernate-crud-master\primefaces-hibernate-crud-master\.metadata\.plugins\org.eclipse.wst.server.core\tmp0\wtpwebapps\CadastroPrimeFacesHibernate" path="/CadastroPrimeFacesHibernate" reloadable="true" source="org.eclipse.jst.jee.server:CadastroPrimeFacesHibernate"/></Host>
+      <Context docBase="C:\Ygor\infotera\infotravel\.metadata\.plugins\org.eclipse.wst.server.core\tmp0\wtpwebapps\ROOT" path="" reloadable="false"/><Context docBase="C:\Ygor\infotera\infotravel\.metadata\.plugins\org.eclipse.wst.server.core\tmp0\wtpwebapps\Infotravel" path="/Infotravel" reloadable="true" source="org.eclipse.jst.jee.server:Infotravel"/></Host>
     </Engine>
   </Service>
 </Server>
